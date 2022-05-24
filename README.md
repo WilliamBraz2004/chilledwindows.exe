@@ -2,11 +2,11 @@
  
 <h2>💬Descrição:</h2>
 
-Projeto de site Flex Turismos, usando os conhecimentos de Flexbox, feito em HTML e CSS, do curso posicionando elementos com Flexbox em CSS, da Digital Innovation One.
+“Fake vírus”, Totalmente inofensivo, sem riscos á máquina(Não é de minha autoria).
 
 <h2>🖥️Tela do programa</h2>
 
-<img src="" width="550px"/>
+<img src="https://user-images.githubusercontent.com/86376135/170057533-40af9dab-1b3e-4b69-8194-c0e675b1fbfe.png" width="1100px"/>
 
 
 
